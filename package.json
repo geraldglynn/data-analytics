@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/geraldglynn/data-analytics/issues"
   },
-  "homepage": "https://github.com/geraldglynn/data-analytics#readme"
+  "homepage": "https://github.com/geraldglynn/data-analytics#readme",
+  "devDependencies": {
+    "@marp-team/marp-cli": "^0.23.3"
+  }
 }
